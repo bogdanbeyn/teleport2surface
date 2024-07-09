@@ -13,16 +13,16 @@ public final class Teleport2surface extends JavaPlugin {
             getServer().getPluginCommand("surface").setExecutor(new surfaceCommand(this));
             getServer().getPluginCommand("surface").setTabCompleter(new surfaceCommandTabCompleter());
         } catch (Exception e){
-            System.out.println("[MADY BY BEYN] commands enabling error.");
+            getLogger().info("Plugin loading error");
         }
         finally {
-            System.out.println("[MADE BY BEYN] teleport2surface plugin is working well :)");
+            getLogger().info("Plugin is working well!");
         }
     }
 
     @Override
     public void onDisable() {
         // Plugin shutdown logic
-        System.out.println("[MADE BY BEYN] Goodbye!");
+
     }
 }
