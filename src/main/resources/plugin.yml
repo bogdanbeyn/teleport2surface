@@ -1,0 +1,11 @@
+name: teleport2surface
+version: '${project.version}'
+main: by.beyn.teleport2surface.Teleport2surface
+api-version: '1.21'
+commands:
+  surface:
+    description: teleport to surface of player
+    usage: /<command> <player>
+    aliases:
+      - surf
+      - teleport
