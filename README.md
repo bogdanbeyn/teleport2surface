@@ -3,7 +3,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 
 <p align="center">
@@ -53,5 +52,3 @@ Distributed under the MIT License. <a href="https://github.com/bogdanbeyn/telepo
 [stars-url]: https://github.com/bogdanbeyn/teleport2surface/stargazers
 [issues-shield]: https://img.shields.io/github/issues/bogdanbeyn/teleport2surface.svg?style=for-the-badge
 [issues-url]: https://github.com/bogdanbeyn/teleport2surface/issues
-[license-shield]: https://img.shields.io/github/license/bogdanbeyn/teleport2surface.svg?style=for-the-badge
-[license-url]: https://github.com/bogdanbeyn/teleport2surface/blob/b317768e98ef1e4e61db7595ee6b7ef3b782519e/LICENSE.txt
