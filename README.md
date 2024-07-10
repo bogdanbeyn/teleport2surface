@@ -39,7 +39,7 @@ _Aliases:_
 
 
 ## License
-Distributed under the MIT License. <a href="https://opensource.org/license/mit">More information about this license</a>.
+Distributed under the MIT License. <a href="https://github.com/bogdanbeyn/teleport2surface/blob/b317768e98ef1e4e61db7595ee6b7ef3b782519e/LICENSE.txt">More information about this license</a>.
 
 
 
@@ -54,4 +54,4 @@ Distributed under the MIT License. <a href="https://opensource.org/license/mit">
 [issues-shield]: https://img.shields.io/github/issues/bogdanbeyn/teleport2surface.svg?style=for-the-badge
 [issues-url]: https://github.com/bogdanbeyn/teleport2surface/issues
 [license-shield]: https://img.shields.io/github/license/bogdanbeyn/teleport2surface.svg?style=for-the-badge
-[license-url]: https://github.com/bogdanbeyn/teleport2surface/blob/master/LICENSE.txt
+[license-url]: https://github.com/bogdanbeyn/teleport2surface/blob/b317768e98ef1e4e61db7595ee6b7ef3b782519e/LICENSE.txt
