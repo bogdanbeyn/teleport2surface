@@ -3,7 +3,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![GNU License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]
 
 
 <p align="center">
@@ -54,4 +54,4 @@ Distributed under the MIT License. <a href="https://opensource.org/license/mit">
 [issues-shield]: https://img.shields.io/github/issues/bogdanbeyn/teleport2surface.svg?style=for-the-badge
 [issues-url]: https://github.com/bogdanbeyn/teleport2surface/issues
 [license-shield]: https://img.shields.io/github/license/bogdanbeyn/teleport2surface.svg?style=for-the-badge
-[license-url]: https://opensource.org/license/mit
+[license-url]: https://github.com/bogdanbeyn/teleport2surface/blob/master/LICENSE.txt
