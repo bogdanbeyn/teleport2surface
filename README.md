@@ -1,9 +1,9 @@
-
+<div align="center>
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-
+</div>
 
 <p align="center">
   <a href="https://github.com/bogdanbeyn/teleport2surface">
