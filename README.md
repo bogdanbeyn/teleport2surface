@@ -1,10 +1,10 @@
-<!--
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![GNU License][license-shield]][license-url]
--->
+
 
 <p align="center">
   <a href="https://github.com/bogdanbeyn/teleport2surface">
@@ -40,3 +40,18 @@ _Aliases:_
 
 ## License
 Distributed under the MIT License. <a href="https://opensource.org/license/mit">More information about this license</a>.
+
+
+
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/CodedRed-Spigot/Bookshelf-Storage.svg?style=for-the-badge
+[contributors-url]: https://github.com/bogdanbeyn/teleport2surface/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/bogdanbeyn/teleport2surface.svg?style=for-the-badge
+[forks-url]: https://github.com/bogdanbeyn/teleport2surface/network/members
+[stars-shield]: https://img.shields.io/github/stars/bogdanbeyn/teleport2surface.svg?style=for-the-badge
+[stars-url]: https://github.com/bogdanbeyn/teleport2surface/stargazers
+[issues-shield]: https://img.shields.io/github/issues/bogdanbeyn/teleport2surface.svg?style=for-the-badge
+[issues-url]: https://github.com/bogdanbeyn/teleport2surface/issues
+[license-shield]: https://img.shields.io/github/license/bogdanbeyn/teleport2surface.svg?style=for-the-badge
+[license-url]: https://opensource.org/license/mit
